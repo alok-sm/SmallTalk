@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  eventdatetime: 2014-07-04 21:37:58
+  description: MyText
+  imageurl: MyString
+  emails: MyText
+
+two:
+  title: MyString
+  eventdatetime: 2014-07-04 21:37:58
+  description: MyText
+  imageurl: MyString
+  emails: MyText
